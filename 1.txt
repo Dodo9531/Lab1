@@ -1,6 +1,2 @@
 text 2
-<<<<<<< HEAD
 text master
-=======
-text added
->>>>>>> new
